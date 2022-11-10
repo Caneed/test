@@ -1,3 +1,5 @@
 this is a project for show how to use git and have a good command of it
 
 this is some change after my first commit 
+
+this is another change after distributed
