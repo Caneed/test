@@ -1,0 +1,1 @@
+this is a project for show how to use git and have a good command of it
